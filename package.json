@@ -1,0 +1,13 @@
+{
+  "name": "ag-grid-vue-hello-world",
+  "version": "0.0.0",
+  "private": true,
+  "cypress:open": "cypress open",
+  "dependencies": {
+    "ag-grid-community": "^25.0.0",
+    "ag-grid-vue": "^25.0.0",
+    "cypress": "^7.4.0",
+    "vue": "2.6.10",
+    "vue-property-decorator": "7.3.0"}
+    
+}
